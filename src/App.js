@@ -55,7 +55,7 @@ function App() {
             <div className="away__score">{awayTeam}</div>
           </div>
         </div>
-        <BottomRow prop={}/>
+        <BottomRow />
       </section>
       <section className="buttons">
         <div className="homeButtons">
